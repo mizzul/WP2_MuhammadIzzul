@@ -1,6 +1,6 @@
 <footer>
- <a href=”http://www.RentalBuku.com”>RentalBuku</a>
- </footer>
- </div>
+      <a href="http://www.RentalBuku.com">RentalBuku</a>
+    </footer>
+  </div>
 </body>
 </html>
